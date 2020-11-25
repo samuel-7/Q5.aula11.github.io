@@ -1,0 +1,18 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img.alta {
+    float: left;
+    height: 300px;
+    width: 300px;
+}
+
+h1 {
+    border-bottom: inset red;
+    color: red;
+}
+
+pre {
+    font-size: 1.2em;
+}
